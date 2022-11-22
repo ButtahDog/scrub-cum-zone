@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+
+ul {
+    color: darkgreen
+}
+
+h1.section-header {
+    color: darkcyan;
+    font-size: 3em;
+}
+
+h2.section-header {
+    color: #C41E3A;
+    font-size: 2em;
+}
