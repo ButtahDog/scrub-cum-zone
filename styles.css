@@ -1,22 +1,27 @@
 body {
-    background-color: rgb(255, 255, 255);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(0, 0, 0, 0.808);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 section {
     text-align: center;
+    color: lightskyblue;
 }
 
-img {
+.img {
     text-align: center;
 }
 
 ul {
-    color: darkgreen
+    color: lightskyblue
+}
+
+.p {
+    color: lightskyblue;
 }
 
 h1.section-header {
-    color: darkcyan;
+    color: lightskyblue;
     font-size: 3em;
 }
 
